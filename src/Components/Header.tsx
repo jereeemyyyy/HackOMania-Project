@@ -8,7 +8,7 @@ const Header: React.FC = () => {
     <AppBar position="static">
       <Toolbar>
         <Typography variant="h6" component="div">
-          EV Charging Booking
+          EV Charging Bookingß
         </Typography>
       </Toolbar>
     </AppBar>
